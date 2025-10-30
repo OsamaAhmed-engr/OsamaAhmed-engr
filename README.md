@@ -1,5 +1,32 @@
-## Hi there 👋
+I’m Osama Ahmed, Co-Founder and Chief Operating Officer at RoboSoft Innovations (SMC-Private) Limited (RSI) — where we build intelligent systems that merge AI, automation, and scalable software design.
 
+At RSI, I focus on operations architecture, product execution, and process optimization, ensuring that research and innovation translate into real, deployable solutions. I work closely with development teams and students under RSI’s research & internship programs, turning ideas into working prototypes and market-ready products.
+
+# 🔧 What I Do
+
+Lead technical operations and systems management at RSI
+
+Oversee product lifecycles, from concept to deployment
+
+Design efficient development pipelines and automation workflows
+
+Collaborate on AI-driven R&D initiatives
+
+# ⚙️ Areas of Interest
+
+Software Architecture & System Design
+
+Automation Pipelines & DevOps
+
+AI, Embedded Systems & Applied Research
+
+FastAPI, Python, and Modern Web Tech
+
+# 📫 Connect
+
+📧 robosoftinnovations@outlook.com
+
+🌐 www.robosoftinnovations.online
 <!--
 **OsamaAhmed-engr/OsamaAhmed-engr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

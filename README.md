@@ -24,9 +24,9 @@ FastAPI, Python, and Modern Web Tech
 
 # 📫 Connect
 
-📧 robosoftinnovations@outlook.com
+📧 osamaahmed2692@gmail.com
 
-🌐 www.robosoftinnovations.online
+🌐 osamaahmed.robosoftinnovations.online
 <!--
 **OsamaAhmed-engr/OsamaAhmed-engr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

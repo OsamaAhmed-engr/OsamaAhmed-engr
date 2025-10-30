@@ -1,3 +1,4 @@
+# BIODATA
 I’m Osama Ahmed, Co-Founder and Chief Operating Officer at RoboSoft Innovations (SMC-Private) Limited (RSI) — where we build intelligent systems that merge AI, automation, and scalable software design.
 
 At RSI, I focus on operations architecture, product execution, and process optimization, ensuring that research and innovation translate into real, deployable solutions. I work closely with development teams and students under RSI’s research & internship programs, turning ideas into working prototypes and market-ready products.
